@@ -8,5 +8,7 @@ body {
 
 button {
     outline: #3300FF;
-    color: #B088FF;
+    background-color: #B088FF;
+    color: #3300FF;
+    outline-width: 10;
 }
