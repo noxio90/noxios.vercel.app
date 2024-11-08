@@ -1,10 +1,15 @@
+@font-face {
+    font-family: 'Raleway';
+    src: url('/assets/Raleway-VariableFont_wght.ttf') format('truetype');
+}
+
 .purple {
-    color: #3300FF
+    color: #3300ff
 }
 
 body {
     background-color: #D7C3FF;
-    font-family: "/assets/Raleway-VariableFont_wght.ttf";
+    font-family: "Raleway";
 }
 
 button {
