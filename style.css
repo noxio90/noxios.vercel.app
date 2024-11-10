@@ -19,4 +19,5 @@ button {
     outline-width: 10;
     font-family: "Raleway";
     font-weight: 1000;
+    border-radius: 100px;
 }
