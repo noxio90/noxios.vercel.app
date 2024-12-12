@@ -13,6 +13,17 @@
     font-weight: 1000;
 }
 
+.tabs:hover {
+    background-color: #120036;
+    color: #FFFFFF;
+    border: #FFFFFF;
+    border: transparent;
+    border-bottom: 1px solid white;
+    border-radius: 4px;
+    font-family: "Raleway";
+    font-weight: 1000;
+}
+
 body {
     color: white;
     background-color: #120036;
