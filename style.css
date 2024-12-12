@@ -3,21 +3,31 @@
     src: url('/assets/Raleway-VariableFont_wght.ttf') format('truetype');
 }
 
-.purple {
-    color: #3300ff
+.tabs {
+    background-color: #120036;
+    color: #FFFFFF;
+    border: #FFFFFF;
+    border: transparent;
+    border-radius: 4px;
+    font-family: "Raleway";
+    font-weight: 1000;
 }
 
 body {
-    background-color: #D7C3FF;
+    color: white;
+    background-color: #120036;
     font-family: "Raleway";
+    margin-left: 20vw;
+    margin-right: 20vw;
+    margin-top: 10vh;
 }
 
 button {
-    outline: #3300FF;
-    background-color: #B088FF;
-    color: #3300FF;
-    outline-width: 10;
+    background-color: #120036;
+    color: #FFFFFF;
+    border: #FFFFFF;
+    border: 1px solid white;
+    border-radius: 4px;
     font-family: "Raleway";
     font-weight: 1000;
-    border-radius: 100px;
 }
