@@ -1,6 +1,11 @@
 @font-face {
-    font-family: 'Raleway';
+    font-family: 'SFD';
     src: url('/assets/SF-Pro-Display-Regular.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SFDBold';
+    src: url('/assets/SF-Pro-Display-bold.otf') format('opentype');
 }
 
 .tabs {
@@ -8,8 +13,7 @@
     color: #FFFFFF;
     border: #FFFFFF;
     border: transparent;
-    font-family: "Raleway";
-    font-weight: 1000;
+    font-family: "SFDBold";
     font-size: 20px;
 }
 
@@ -19,8 +23,7 @@
     border: #FFFFFF;
     border: transparent;
     text-decoration: underline;
-    font-family: "Raleway";
-    font-weight: 1000;
+    font-family: "SFDBold";
     font-size: 20px;
     cursor: pointer
 }
@@ -28,7 +31,7 @@
 body {
     color: white;
     background-color: #120036;
-    font-family: "Raleway";
+    font-family: "SFD";
     margin-left: 20vw;
     margin-right: 20vw;
     margin-top: 10vh;
@@ -40,8 +43,7 @@ button {
     border: #FFFFFF;
     border: 1px solid white;
     border-radius: 4px;
-    font-family: "Raleway";
-    font-weight: 1000;
+    font-family: "SFDBold";
 }
 
 #nav {
@@ -52,4 +54,8 @@ button {
 #gootles {
     display: flex;
     align-items: center;
+}
+
+h1 {
+    font-family: "SFDBold";
 }
