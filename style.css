@@ -54,6 +54,8 @@ button {
 #gootles {
     display: flex;
     align-items: center;
+    margin-top: 5px;
+    width: 100vh;
 }
 
 h1 {
