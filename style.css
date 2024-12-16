@@ -48,3 +48,8 @@ button {
     text-align: center;
     scale: 1.2
 }
+
+#gootles {
+    display: flex;
+    align-items: center;
+}
