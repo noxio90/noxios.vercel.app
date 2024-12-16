@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Raleway';
-    src: url('/assets/SF-Pro-Display-Regular.otf') format('');
+    src: url('/assets/SF-Pro-Display-Regular.otf') format('opentype');
 }
 
 .tabs {
