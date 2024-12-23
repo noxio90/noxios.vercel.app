@@ -48,7 +48,10 @@ button {
 
 #nav {
     text-align: center;
-    scale: 1.2
+    scale: 1.2;
+    background-color: #160042;
+    padding: 5px 5px;
+    border-radius: 100px;
 }
 
 #gootles {
