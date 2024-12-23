@@ -67,3 +67,12 @@ h1 {
     display: flex;
     justify-content: center;
 }
+
+#foots {
+    border: 2px dashed #2e0089;
+    width: 100%;
+}
+
+#footer {
+    color: #2e0089;
+}
