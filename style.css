@@ -9,7 +9,7 @@
 }
 
 .tabs {
-    background-color: #1c0055;
+    background-color: #120036;
     color: #FFFFFF;
     border: #FFFFFF;
     border: transparent;
@@ -18,7 +18,7 @@
 }
 
 .tabs:hover {
-    background-color: #1c0055;
+    background-color: #120036;
     color: #FFFFFF;
     border: #FFFFFF;
     border: transparent;
@@ -48,8 +48,7 @@ button {
 
 #nav {
     scale: 1.2;
-    background-color: #1c0055;
-    padding: 10px 10px;
+    padding: 5px 5px;
     border-radius: 100px;
 }
 
