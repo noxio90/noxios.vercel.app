@@ -47,9 +47,8 @@ button {
 }
 
 #nav {
-    text-align: center;
     scale: 1.2;
-    background-color: #160042;
+    background-color: #1c0055;
     padding: 5px 5px;
     border-radius: 100px;
 }
@@ -63,4 +62,9 @@ button {
 
 h1 {
     font-family: "SFDBold";
+}
+
+#navbox {
+    display: flex;
+    justify-content: center;
 }
